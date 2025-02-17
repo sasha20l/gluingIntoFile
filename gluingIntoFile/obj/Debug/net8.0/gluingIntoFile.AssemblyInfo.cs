@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("gluingIntoFile")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+951cbc872c322433b8c5703c2f0e534d0975e075")]
 [assembly: System.Reflection.AssemblyProductAttribute("gluingIntoFile")]
 [assembly: System.Reflection.AssemblyTitleAttribute("gluingIntoFile")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

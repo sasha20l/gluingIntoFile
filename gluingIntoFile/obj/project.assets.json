@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Asus\\source\\repos\\gluingIntoFile\\gluingIntoFile\\gluingIntoFile.csproj",
+      "projectUniqueName": "C:\\Users\\Asus\\Desktop\\Мои разработки\\Склеивает cs файлы\\gluingIntoFile\\gluingIntoFile\\gluingIntoFile.csproj",
       "projectName": "gluingIntoFile",
-      "projectPath": "C:\\Users\\Asus\\source\\repos\\gluingIntoFile\\gluingIntoFile\\gluingIntoFile.csproj",
+      "projectPath": "C:\\Users\\Asus\\Desktop\\Мои разработки\\Склеивает cs файлы\\gluingIntoFile\\gluingIntoFile\\gluingIntoFile.csproj",
       "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Asus\\source\\repos\\gluingIntoFile\\gluingIntoFile\\obj\\",
+      "outputPath": "C:\\Users\\Asus\\Desktop\\Мои разработки\\Склеивает cs файлы\\gluingIntoFile\\gluingIntoFile\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
