@@ -1,0 +1,14 @@
+C:\Users\Asus\source\repos\gluingIntoFile\gluingIntoFile\bin\Debug\net8.0\gluingIntoFile.exe
+C:\Users\Asus\source\repos\gluingIntoFile\gluingIntoFile\bin\Debug\net8.0\gluingIntoFile.deps.json
+C:\Users\Asus\source\repos\gluingIntoFile\gluingIntoFile\bin\Debug\net8.0\gluingIntoFile.runtimeconfig.json
+C:\Users\Asus\source\repos\gluingIntoFile\gluingIntoFile\bin\Debug\net8.0\gluingIntoFile.dll
+C:\Users\Asus\source\repos\gluingIntoFile\gluingIntoFile\bin\Debug\net8.0\gluingIntoFile.pdb
+C:\Users\Asus\source\repos\gluingIntoFile\gluingIntoFile\obj\Debug\net8.0\gluingIntoFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\gluingIntoFile\gluingIntoFile\obj\Debug\net8.0\gluingIntoFile.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\gluingIntoFile\gluingIntoFile\obj\Debug\net8.0\gluingIntoFile.AssemblyInfo.cs
+C:\Users\Asus\source\repos\gluingIntoFile\gluingIntoFile\obj\Debug\net8.0\gluingIntoFile.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\gluingIntoFile\gluingIntoFile\obj\Debug\net8.0\gluingIntoFile.dll
+C:\Users\Asus\source\repos\gluingIntoFile\gluingIntoFile\obj\Debug\net8.0\refint\gluingIntoFile.dll
+C:\Users\Asus\source\repos\gluingIntoFile\gluingIntoFile\obj\Debug\net8.0\gluingIntoFile.pdb
+C:\Users\Asus\source\repos\gluingIntoFile\gluingIntoFile\obj\Debug\net8.0\gluingIntoFile.genruntimeconfig.cache
+C:\Users\Asus\source\repos\gluingIntoFile\gluingIntoFile\obj\Debug\net8.0\ref\gluingIntoFile.dll
